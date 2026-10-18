@@ -1,0 +1,2 @@
+# fegnbs
+Daily digest notes
